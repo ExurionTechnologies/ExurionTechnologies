@@ -14,6 +14,7 @@
 <br/>
 
 ![Solo Founder](https://img.shields.io/badge/100%25_FOUNDER--OWNED-FF4B4B?style=flat-square)
+![Businessman](https://img.shields.io/badge/FOUNDER-POWERFUL_BUSINESSMAN-FF4B4B?style=flat-square)
 ![No Staff](https://img.shields.io/badge/STAFF-CURRENTLY_NONE-9E9E9E?style=flat-square)
 ![Founded](https://img.shields.io/badge/FOUNDED-DEC_2025-00C896?style=flat-square)
 ![Model](https://img.shields.io/badge/MODEL-END--TO--END_DELIVERY-6C5CE7?style=flat-square)
@@ -266,6 +267,39 @@ Build long-term client partnerships rather than one-off projects
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
+## 👑 Founder & CEO Spotlight
+
+<div align="center">
+
+### Ebin Biju
+**Founder & Chief Executive Officer, Exurion Technologies**
+
+![Role](https://img.shields.io/badge/ROLE-FOUNDER_%26_CEO-6C5CE7?style=flat-square)
+![Type](https://img.shields.io/badge/TYPE-POWERFUL_BUSINESSMAN-FF4B4B?style=flat-square)
+![Approach](https://img.shields.io/badge/APPROACH-HANDS--ON_%2F_FULL--STACK-00C896?style=flat-square)
+
+</div>
+
+Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-builder — closing the gap between business strategy and hands-on engineering by operating as both the company's chief executive and its lead builder. Rather than delegating execution, he runs the full lifecycle personally: pitching the vision, architecting the systems, writing the code, and staying accountable for what ships.
+
+**Business Acumen**
+- Built and self-funded Exurion from the ground up with zero outside investment
+- Owns strategy, pricing, client relationships, and delivery — the full commercial stack, not just the technical one
+- Operates lean by design: every dollar of overhead is deferred until it's earned, not assumed
+
+**Technical Range**
+- Ships across four disciplines — games, web, apps, and AI — rather than specializing narrowly
+- Comfortable at every layer: from Unreal Engine C++ systems to Next.js storefronts to AI chatbot pipelines
+
+**Leadership Philosophy**
+- *Lead by building* — credibility comes from shipped work, not job titles
+- *Ship with intent* — every release is scoped, tested, and owned end-to-end
+- *Move fast, stay sharp* — speed without cutting corners on architecture or security
+
+**👑 Current Role** — Founder & Chief Executive Officer, Exurion Technologies
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
+
 ## 🏆 Executive Background & Credentials
 
 | Category | Expertise |
@@ -275,8 +309,7 @@ Build long-term client partnerships rather than one-off projects
 | 🎨 **Design** | UI/UX Design · 3D Modelling · Adobe Photoshop · Motion Graphics |
 | 🤖 **AI & Bots** | AI Chatbot Development · Discord Bot Development |
 | 🗄️ **Infrastructure** | MySQL Database Services · Web Hosting & Server Management |
-
-**👑 Current Role** — Founder & Chief Executive Officer, Exurion Technologies
+| 💼 **Business** | Strategy & Vision · Pricing & Proposals · Client Relationship Management · Growth Planning |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -308,27 +341,87 @@ Build long-term client partnerships rather than one-off projects
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
-## ✨ Additional Sections (Optional — Fill In As the Company Grows)
+## ✨ Additional Sections
 
-| Section | Status |
-|:---|:---|
-| ⭐ Company Achievements | *None yet — track first client wins and shipped projects here* |
-| 📈 Business Metrics | *Not tracked publicly yet* |
-| 📰 Press & Media | *None yet* |
-| 🤝 Strategic Partnerships | *None yet* |
-| 🌐 Global Presence | *Remote-first, based in Kerala, India* |
-| 🔬 Research & Development | *Informal — see Portfolio → Research Projects* |
-| 🛡️ Security & Privacy | *Security best practices applied per-project; no formal policy published* |
-| ⚖️ Compliance | *Not applicable yet — no formal certifications held* |
-| 🏅 Awards & Recognition | *None yet* |
-| 📚 Case Studies | *None published yet* |
-| 💬 Client Testimonials | *None published yet* |
-| 💰 Pricing Models | *Custom quotes per engagement — no public pricing yet* |
-| 🗺️ Public Product Roadmap | *See Vision & Roadmap section above* |
-| ❓ Frequently Asked Questions | *Not yet written* |
-| 🚀 Career Opportunities | *Hiring planned in Phase 2 — see Future Team* |
-| ❤️ Sponsor & Support | *See Sponsorship section below* |
-| 🌱 Sustainability & Social Impact | *No formal initiatives yet* |
+### ⭐ Company Achievements
+- Founded and grew Exurion from zero to a working, multi-discipline studio in under a year — solo, self-funded, no outside capital
+- Shipped **6 completed products** spanning game development, backend tooling, and automation (see Business Portfolio)
+- Built and personally operates a technology stack spanning 4 disciplines — games, web, apps, and AI — rather than a single specialty
+- Stood up self-managed hosting infrastructure (web, bot, and game servers) without relying on third-party cloud platforms
+
+### 📈 Business Metrics
+| Metric | Value |
+|:---|:---:|
+| Completed products shipped | 6 |
+| Active service lines | 14 |
+| Core technology domains | 10+ |
+| Team size | 1 (Founder & CEO) |
+| Founded | December 2025 |
+
+*Revenue, client count, and growth-rate metrics are not published publicly at this stage.*
+
+### 📰 Press & Media
+No press coverage yet. A media/press kit will be published here once Exurion has coverage worth linking to — not fabricated in advance.
+
+### 🤝 Strategic Partnerships
+No formal partnerships yet. Exurion is open to partnering with agencies, publishers, and platforms that align with its service lines — reach out via the Business Contact section below.
+
+### 🌐 Global Presence
+Remote-first and based in Kerala, India, Exurion operates without a physical office and is structured to take on clients in any timezone. All engagement — discovery through delivery — happens remotely by design.
+
+### 🔬 Research & Development
+R&D is currently informal rather than a separate funded function — exploratory work on AI tooling (chatbots, LangChain pipelines) and game systems (AI behavior, multiplayer networking) feeds directly into the roadmap rather than being run as standalone research.
+
+### 🛡️ Security & Privacy
+- Secrets and credentials kept out of source control; environment-based configuration on every project
+- Access control applied to databases and hosting infrastructure on a per-project basis
+- Security review performed personally by the Founder & CEO before deployment
+- No formal, published security policy yet — this is planned alongside Phase 2 hiring
+
+### ⚖️ Compliance
+No formal certifications (ISO, SOC 2, etc.) are held at this stage — expected as the company scales past solo operation. General data-handling and security best practices are still applied to every engagement by default.
+
+### 🏅 Awards & Recognition
+None yet. This section will be updated if and when Exurion receives external recognition.
+
+### 📚 Case Studies
+Formal written case studies haven't been published yet — the **Business Portfolio** section above serves as the current project-by-project record until dedicated write-ups are produced.
+
+### 💬 Client Testimonials
+No testimonials published yet. As client engagements close, verified feedback will be added here — not written in advance of real client input.
+
+### 💰 Pricing Models
+Exurion does not publish a fixed price list. Every engagement is quoted individually based on scope, timeline, and complexity, typically as either:
+- **Fixed-price**, scoped per project after the Discovery and Requirements Analysis stages, or
+- **Time-based**, for ongoing maintenance and long-term support engagements
+
+### 🗺️ Public Product Roadmap
+See the **Vision & Roadmap** section above for the current 5-phase growth plan (Foundation → First Hires → AI Integration → Scale → Market Leadership).
+
+### ❓ Frequently Asked Questions
+**Is Exurion a registered legal entity?**
+Currently operating as a trade name; formal legal registration is in progress.
+
+**How big is the team?**
+Currently one — the Founder & CEO. Hiring is planned for Phase 2 of the roadmap.
+
+**Do you take on small projects or only large ones?**
+Both — engagements are scoped individually rather than gated by a minimum size.
+
+**How do I start a project?**
+Reach out via the Business Contact section below to begin the Discovery stage.
+
+**Do you offer ongoing support after launch?**
+Yes — long-term maintenance and support is included as part of the standard Client Engagement process.
+
+### 🚀 Career Opportunities
+Not actively hiring yet. Roles planned for Phase 2 of the roadmap include Engineering, Game Development, AI Research, UI/UX Design, QA, DevOps, Marketing, and Business Development (see **Future Team** above). Interested candidates can reach out via the Business Contact section to be considered when hiring opens.
+
+### ❤️ Sponsor & Support
+See the **Sponsorship** section below to support Exurion's open-source projects and AI product development.
+
+### 🌱 Sustainability & Social Impact
+No formal sustainability program yet. As a remote-first, self-hosted operation, Exurion runs without a physical office footprint by default — a formal social-impact initiative is a candidate for a later growth phase, not a current program.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
