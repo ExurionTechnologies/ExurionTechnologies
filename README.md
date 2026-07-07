@@ -14,6 +14,7 @@
 <br/>
 
 ![Solo Founder](https://img.shields.io/badge/100%25_FOUNDER--OWNED-FF4B4B?style=flat-square)
+![No Staff](https://img.shields.io/badge/STAFF-CURRENTLY_NONE-9E9E9E?style=flat-square)
 ![Founded](https://img.shields.io/badge/FOUNDED-DEC_2025-00C896?style=flat-square)
 ![Model](https://img.shields.io/badge/MODEL-END--TO--END_DELIVERY-6C5CE7?style=flat-square)
 ![Stage](https://img.shields.io/badge/STAGE-EARLY--STAGE_STARTUP-FFB000?style=flat-square)
@@ -44,6 +45,7 @@
 | **Business Type** | Technology & Game Development Studio |
 | **Company Stage** | Startup — early-stage, founder-led |
 | **Ownership** | 100% founder-owned, self-funded |
+| **Staff** | Currently no staff — solo-operated by the Founder & CEO, hiring planned soon |
 | **Operating Model** | Solo-operated end-to-end delivery — strategy, build, launch, and support handled directly by the Founder & CEO |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
