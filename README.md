@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Exurion%20Technologies&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Games.%20Apps.%20Web.%20AI.%20Built%20End-to-End.&descAlignY=55&descSize=17&descColor=fff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=900&lines=One+Founder.+Every+Layer+of+the+Stack.+%F0%9F%8F%A2;Games+%C2%B7+Apps+%C2%B7+Web+%C2%B7+AI+%E2%9A%A1;Strategy+to+Ship%2C+No+Middlemen+%F0%9F%9A%80;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=900&lines=Founder+%26+CEO.+Every+Layer+of+the+Stack.+%F0%9F%8F%A2;Games+%C2%B7+Apps+%C2%B7+Web+%C2%B7+AI+%E2%9A%A1;Strategy+to+Ship%2C+No+Middlemen+%F0%9F%9A%80;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ebiju127&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -40,7 +40,7 @@
 | | |
 |:---|:---|
 | **Legal Name** | Exurion Technologies *(operating/trade name — formal legal entity registration in progress)* |
-| **Founder** | Ebin Biju |
+| **Founder & CEO** | Ebin Biju |
 | **Founded Year** | December 2025 |
 | **Headquarters** | Virtual headquarters — remote-first, based in Kerala, India |
 | **Business Type** | Technology & Game Development Studio |
@@ -133,7 +133,7 @@ Long-Term Support                →  Maintenance and iteration after launch
 9. Continuous Improvement   →  Ongoing iteration based on real usage
 ```
 
-Every engagement is led directly by the Founder — from the first conversation to post-launch support — ensuring consistent accountability and a single point of contact throughout.
+Every engagement is led directly by the Founder & CEO — from the first conversation to post-launch support — ensuring consistent accountability and a single point of contact throughout.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -141,8 +141,8 @@ Every engagement is led directly by the Founder — from the first conversation 
 
 | Advantage | What It Means |
 |:---|:---|
-| **Founder-Led Execution** | The Founder personally codes, designs, and ships every product |
-| **Direct Communication** | No account managers or middle layers — you work directly with the Founder |
+| **Founder-Led Execution** | The Founder & CEO personally codes, designs, and ships every product |
+| **Direct Communication** | No account managers or middle layers — you work directly with the Founder & CEO |
 | **Transparent Development Process** | Clear milestones and regular checkpoints throughout the build |
 | **Scalable Architecture** | Systems designed to grow, ready to scale when the time comes |
 | **Modern Technology Stack** | Current frameworks and tools across game, web, app, and AI development |
@@ -231,7 +231,7 @@ Build long-term client partnerships rather than one-off projects
 
 ## 👥 Team
 
-Exurion is currently a solo operation — Founder Ebin Biju personally covers every function below, with hiring planned for Phase 2 of the roadmap.
+Exurion is currently a solo operation — Founder & CEO Ebin Biju personally covers every function below, with hiring planned for Phase 2 of the roadmap.
 
 | Function | Status |
 |:---|:---:|
@@ -269,14 +269,14 @@ Exurion is currently a solo operation — Founder Ebin Biju personally covers ev
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
-## 👑 Founder Spotlight
+## 👑 Founder & CEO Spotlight
 
 <div align="center">
 
 ### Ebin Biju
-**Founder, Exurion Technologies**
+**Founder & Chief Executive Officer, Exurion Technologies**
 
-![Role](https://img.shields.io/badge/ROLE-FOUNDER-6C5CE7?style=flat-square)
+![Role](https://img.shields.io/badge/ROLE-FOUNDER_%26_CEO-6C5CE7?style=flat-square)
 ![Type](https://img.shields.io/badge/TYPE-POWERFUL_BUSINESSMAN-FF4B4B?style=flat-square)
 ![Approach](https://img.shields.io/badge/APPROACH-HANDS--ON_%2F_FULL--STACK-00C896?style=flat-square)
 
@@ -298,7 +298,7 @@ Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-build
 - *Ship with intent* — every release is scoped, tested, and owned end-to-end
 - *Move fast, stay sharp* — speed without cutting corners on architecture or security
 
-**👑 Current Role** — Founder, Exurion Technologies
+**👑 Current Role** — Founder & Chief Executive Officer, Exurion Technologies
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -357,7 +357,7 @@ Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-build
 | Completed products shipped | 6 |
 | Active service lines | 14 |
 | Core technology domains | 10+ |
-| Team size | Solo (Founder) |
+| Team size | Solo (Founder & CEO) |
 | Founded | December 2025 |
 
 *Revenue, client count, and growth-rate metrics are not published publicly at this stage.*
@@ -377,7 +377,7 @@ R&D is currently informal rather than a separate funded function — exploratory
 ### 🛡️ Security & Privacy
 - Secrets and credentials kept out of source control; environment-based configuration on every project
 - Access control applied to databases and hosting infrastructure on a per-project basis
-- Security review performed personally by the Founder before deployment
+- Security review performed personally by the Founder & CEO before deployment
 - No formal, published security policy yet — this is planned alongside Phase 2 hiring
 
 ### ⚖️ Compliance
@@ -405,7 +405,7 @@ See the **Vision & Roadmap** section above for the current 5-phase growth plan (
 Currently operating as a trade name; formal legal registration is in progress.
 
 **How big is the team?**
-Currently one — the Founder. Hiring is planned for Phase 2 of the roadmap.
+Currently one — the Founder & CEO. Hiring is planned for Phase 2 of the roadmap.
 
 **Do you take on small projects or only large ones?**
 Both — engagements are scoped individually rather than gated by a minimum size.
@@ -436,7 +436,7 @@ No formal sustainability program yet. As a remote-first, self-hosted operation, 
 | **🔧 Scope** | Bug fixes, hosting issues, feature requests, and general maintenance |
 | **🔁 Post-Launch Coverage** | Included as part of every project engagement |
 
-Support requests are handled personally by the Founder to ensure fast, accountable responses.
+Support requests are handled personally by the Founder & CEO to ensure fast, accountable responses.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -463,7 +463,7 @@ One point of contact. Every layer of the stack. No middle layers slowing things 
 
 <br/>
 
-*"Code. Create. Conquer."* 🚀 — **Ebin Biju** · Founder, Exurion Technologies
+*"Code. Create. Conquer."* 🚀 — **Ebin Biju** · Founder & CEO, Exurion Technologies
 
 </div>
 
