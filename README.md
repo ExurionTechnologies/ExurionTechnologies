@@ -15,7 +15,7 @@
 
 ![Founder-Led](https://img.shields.io/badge/FOUNDER--LED-FF4B4B?style=flat-square)
 ![Businessman](https://img.shields.io/badge/FOUNDER-POWERFUL_BUSINESSMAN-FF4B4B?style=flat-square)
-![Team](https://img.shields.io/badge/TEAM_SIZE-10-9E9E9E?style=flat-square)
+![Team](https://img.shields.io/badge/TEAM-SOLO_FOUNDER-9E9E9E?style=flat-square)
 ![Founded](https://img.shields.io/badge/FOUNDED-DEC_2025-00C896?style=flat-square)
 ![Model](https://img.shields.io/badge/MODEL-END--TO--END_DELIVERY-6C5CE7?style=flat-square)
 ![Stage](https://img.shields.io/badge/STAGE-EARLY--STAGE_STARTUP-FFB000?style=flat-square)
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-### ⚡ 10-person team. Six shipped products. Four disciplines. Founder-led.
+### ⚡ Solo founder. Six shipped products. Four disciplines. Founder-led.
 
 **Exurion Technologies** is a full-service technology and game studio, founder-led from first commit to production support — a lean, accountable team with no diluted ownership.
 
@@ -40,14 +40,14 @@
 | | |
 |:---|:---|
 | **Legal Name** | Exurion Technologies *(operating/trade name — formal legal entity registration in progress)* |
-| **Founder & CEO** | Ebin Biju |
+| **Founder** | Ebin Biju |
 | **Founded Year** | December 2025 |
 | **Headquarters** | Virtual headquarters — remote-first, based in Kerala, India |
 | **Business Type** | Technology & Game Development Studio |
 | **Company Stage** | Startup — early-stage, founder-led |
 | **Ownership** | 100% founder-owned, self-funded |
-| **Staff** | 10 team members across engineering, design, and delivery |
-| **Operating Model** | Founder-led delivery, supported by a 10-person team spanning engineering, design, and delivery |
+| **Staff** | Solo founder — Ebin Biju, across engineering, design, and delivery |
+| **Operating Model** | Founder-led delivery — every layer of the stack handled directly |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -133,7 +133,7 @@ Long-Term Support                →  Maintenance and iteration after launch
 9. Continuous Improvement   →  Ongoing iteration based on real usage
 ```
 
-Every engagement is led directly by the Founder & CEO — from the first conversation to post-launch support — ensuring consistent accountability and a single point of contact throughout.
+Every engagement is led directly by the Founder — from the first conversation to post-launch support — ensuring consistent accountability and a single point of contact throughout.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -141,7 +141,7 @@ Every engagement is led directly by the Founder & CEO — from the first convers
 
 | Advantage | What It Means |
 |:---|:---|
-| **Founder-Led Execution** | The CEO personally codes, designs, and ships every product |
+| **Founder-Led Execution** | The Founder personally codes, designs, and ships every product |
 | **Direct Communication** | No account managers or middle layers — you work directly with the Founder |
 | **Transparent Development Process** | Clear milestones and regular checkpoints throughout the build |
 | **Scalable Architecture** | Systems designed to grow, ready to scale when the time comes |
@@ -209,8 +209,8 @@ AI-powered products and tooling, SaaS offerings, and enterprise-tier solutions a
 
 | Phase | Timeline | Focus | Key Goals |
 |:---:|:---|:---|:---|
-| **Phase 1** | Complete | 🏗️ Foundation | Founder-led delivery across games, apps, web & e-commerce · Build portfolio & client base |
-| **Phase 2** | Now | 👥 Team Growth | Grew to a 10-person team across engineering & design · Formalizing internal processes |
+| **Phase 1** | Now | 🏗️ Foundation | Founder-led delivery across games, apps, web & e-commerce · Build portfolio & client base |
+| **Phase 2** | Next | 👥 Team Growth | Begin hiring across engineering & design · Formalize internal processes |
 | **Phase 3** | Mid-Term | 🤖 AI Integration | Launch AI-powered products & tooling · Embed AI into existing service lines |
 | **Phase 4** | Long-Term | 🏢 Scale | Grow into a full-scale multi-disciplinary technology studio · Expand hosting & infrastructure capacity |
 | **Phase 5** | Vision | 🌍 Market Leadership | Establish Exurion as a recognized technology brand across games, web, and AI |
@@ -231,18 +231,18 @@ Build long-term client partnerships rather than one-off projects
 
 ## 👥 Team
 
-Exurion now operates with a 10-person team spanning the functions below, led by the Founder & CEO.
+Exurion is currently a solo operation — Founder Ebin Biju personally covers every function below, with hiring planned for Phase 2 of the roadmap.
 
 | Function | Status |
 |:---|:---:|
-| Engineering | ✅ Active |
-| Game Development | ✅ Active |
-| AI Research | ✅ Active |
-| UI/UX Design | ✅ Active |
-| Quality Assurance | ✅ Active |
-| DevOps | ✅ Active |
-| Marketing | ✅ Active |
-| Business Development | ✅ Active |
+| Engineering | ✅ Founder-led |
+| Game Development | ✅ Founder-led |
+| AI Research | ✅ Founder-led |
+| UI/UX Design | ✅ Founder-led |
+| Quality Assurance | ✅ Founder-led |
+| DevOps | ✅ Founder-led |
+| Marketing | ✅ Founder-led |
+| Business Development | ✅ Founder-led |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -269,24 +269,24 @@ Exurion now operates with a 10-person team spanning the functions below, led by 
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
-## 👑 Founder & CEO Spotlight
+## 👑 Founder Spotlight
 
 <div align="center">
 
 ### Ebin Biju
-**Founder & Chief Executive Officer, Exurion Technologies**
+**Founder, Exurion Technologies**
 
-![Role](https://img.shields.io/badge/ROLE-FOUNDER_%26_CEO-6C5CE7?style=flat-square)
+![Role](https://img.shields.io/badge/ROLE-FOUNDER-6C5CE7?style=flat-square)
 ![Type](https://img.shields.io/badge/TYPE-POWERFUL_BUSINESSMAN-FF4B4B?style=flat-square)
 ![Approach](https://img.shields.io/badge/APPROACH-HANDS--ON_%2F_FULL--STACK-00C896?style=flat-square)
 
 </div>
 
-Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-builder — closing the gap between business strategy and hands-on engineering. He built the company from the ground up and now leads a 10-person team, staying directly involved in strategy, architecture, and delivery rather than stepping back into a purely executive role.
+Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-builder — closing the gap between business strategy and hands-on engineering. He built the company from the ground up and runs it solo, staying directly involved in strategy, architecture, and delivery rather than stepping back into a purely executive role.
 
 **Business Acumen**
-- Founded and self-funded Exurion from the ground up with zero outside investment, growing it into a 10-person team
-- Owns overall strategy, pricing, and client relationships, working closely with the team on delivery — the full commercial stack, not just the technical one
+- Founded and self-funded Exurion from the ground up with zero outside investment
+- Owns overall strategy, pricing, and client relationships — the full commercial stack, not just the technical one
 - Operates lean by design: every dollar of overhead is earned before it's spent
 
 **Technical Range**
@@ -298,7 +298,7 @@ Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-build
 - *Ship with intent* — every release is scoped, tested, and owned end-to-end
 - *Move fast, stay sharp* — speed without cutting corners on architecture or security
 
-**👑 Current Role** — Founder & Chief Executive Officer, Exurion Technologies
+**👑 Current Role** — Founder, Exurion Technologies
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -346,7 +346,7 @@ Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-build
 ## ✨ Additional Sections
 
 ### ⭐ Company Achievements
-- Founded Exurion and grew it into a working, multi-discipline studio with a 10-person team in under a year — self-funded, no outside capital
+- Founded Exurion and grew it into a working, multi-discipline solo studio in under a year — self-funded, no outside capital
 - Shipped **6 completed products** spanning game development, backend tooling, and automation (see Business Portfolio)
 - Built and personally operates a technology stack spanning 4 disciplines — games, web, apps, and AI — rather than a single specialty
 - Stood up self-managed hosting infrastructure (web, bot, and game servers) without relying on third-party cloud platforms
@@ -357,7 +357,7 @@ Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-build
 | Completed products shipped | 6 |
 | Active service lines | 14 |
 | Core technology domains | 10+ |
-| Team size | 10 |
+| Team size | Solo (Founder) |
 | Founded | December 2025 |
 
 *Revenue, client count, and growth-rate metrics are not published publicly at this stage.*
@@ -377,7 +377,7 @@ R&D is currently informal rather than a separate funded function — exploratory
 ### 🛡️ Security & Privacy
 - Secrets and credentials kept out of source control; environment-based configuration on every project
 - Access control applied to databases and hosting infrastructure on a per-project basis
-- Security review performed personally by the Founder & CEO before deployment
+- Security review performed personally by the Founder before deployment
 - No formal, published security policy yet — this is planned alongside Phase 2 hiring
 
 ### ⚖️ Compliance
@@ -405,7 +405,7 @@ See the **Vision & Roadmap** section above for the current 5-phase growth plan (
 Currently operating as a trade name; formal legal registration is in progress.
 
 **How big is the team?**
-Currently one — the Founder & CEO. Hiring is planned for Phase 2 of the roadmap.
+Currently one — the Founder. Hiring is planned for Phase 2 of the roadmap.
 
 **Do you take on small projects or only large ones?**
 Both — engagements are scoped individually rather than gated by a minimum size.
@@ -417,7 +417,7 @@ Reach out via the Business Contact section below to begin the Discovery stage.
 Yes — long-term maintenance and support is included as part of the standard Client Engagement process.
 
 ### 🚀 Career Opportunities
-Exurion has grown to a 10-person team across Engineering, Game Development, AI Research, UI/UX Design, QA, DevOps, Marketing, and Business Development (see **Team** above). Interested candidates are welcome to reach out via the Business Contact section for future openings.
+Exurion is currently a solo, founder-led operation (see **Team** above). Hiring across Engineering, Game Development, AI Research, UI/UX Design, QA, DevOps, Marketing, and Business Development is planned for Phase 2 of the roadmap. Interested candidates are welcome to reach out via the Business Contact section for future openings.
 
 ### ❤️ Sponsor & Support
 See the **Sponsorship** section below to support Exurion's open-source projects and AI product development.
@@ -436,7 +436,7 @@ No formal sustainability program yet. As a remote-first, self-hosted operation, 
 | **🔧 Scope** | Bug fixes, hosting issues, feature requests, and general maintenance |
 | **🔁 Post-Launch Coverage** | Included as part of every project engagement |
 
-Support requests are handled personally by the Founder & CEO to ensure fast, accountable responses.
+Support requests are handled personally by the Founder to ensure fast, accountable responses.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -463,7 +463,7 @@ One point of contact. Every layer of the stack. No middle layers slowing things 
 
 <br/>
 
-*"Code. Create. Conquer."* 🚀 — **Ebin Biju** · Founder & CEO, Exurion Technologies
+*"Code. Create. Conquer."* 🚀 — **Ebin Biju** · Founder, Exurion Technologies
 
 </div>
 
