@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ebiju127&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![Website](https://img.shields.io/badge/WEBSITE-LIVE-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/WEBSITE-COMING_SOON-6C5CE7?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT_US-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:exuriontechnologies@gmail.com)
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE)
 [![Sponsor](https://img.shields.io/badge/SPONSOR-SUPPORT_US-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/EBINBIJU138)
@@ -15,11 +15,11 @@
 
 ![Founder-Led](https://img.shields.io/badge/FOUNDER--LED-FF4B4B?style=flat-square)
 ![Businessman](https://img.shields.io/badge/FOUNDER-POWERFUL_BUSINESSMAN-FF4B4B?style=flat-square)
-![Team](https://img.shields.io/badge/TEAM_SIZE-35-9E9E9E?style=flat-square)
+![Team](https://img.shields.io/badge/TEAM_SIZE-10-9E9E9E?style=flat-square)
 ![Founded](https://img.shields.io/badge/FOUNDED-DEC_2025-00C896?style=flat-square)
 ![Model](https://img.shields.io/badge/MODEL-END--TO--END_DELIVERY-6C5CE7?style=flat-square)
-![Stage](https://img.shields.io/badge/STAGE-GROWTH_STAGE_STUDIO-FFB000?style=flat-square)
-![AI](https://img.shields.io/badge/AI--NATIVE-FULLY_INTEGRATED-0A66C2?style=flat-square)
+![Stage](https://img.shields.io/badge/STAGE-EARLY--STAGE_STARTUP-FFB000?style=flat-square)
+![AI](https://img.shields.io/badge/EXPANDING_INTO-AI-0A66C2?style=flat-square)
 
 </div>
 
@@ -27,9 +27,9 @@
 
 <div align="center">
 
-### ⚡ 35-person team. 20+ shipped products. Four disciplines. Founder-led.
+### ⚡ 10-person team. Six shipped products. Four disciplines. Founder-led.
 
-**Exurion Technologies** is a full-service technology and game studio, founder-led from first commit to production support — a lean, accountable team with no diluted ownership, now three years into building AI-native products across every service line.
+**Exurion Technologies** is a full-service technology and game studio, founder-led from first commit to production support — a lean, accountable team with no diluted ownership.
 
 </div>
 
@@ -39,15 +39,15 @@
 
 | | |
 |:---|:---|
-| **Legal Name** | Exurion Technologies *(operating/trade name — formal legal entity registration completed)* |
+| **Legal Name** | Exurion Technologies *(operating/trade name — formal legal entity registration in progress)* |
 | **Founder & CEO** | Ebin Biju |
 | **Founded Year** | December 2025 |
 | **Headquarters** | Virtual headquarters — remote-first, based in Kerala, India |
 | **Business Type** | Technology & Game Development Studio |
-| **Company Stage** | Growth-stage — founder-led, scaling into enterprise engagements |
+| **Company Stage** | Startup — early-stage, founder-led |
 | **Ownership** | 100% founder-owned, self-funded |
-| **Staff** | 35 team members across engineering, design, AI research, and delivery |
-| **Operating Model** | Founder-led delivery, supported by a 35-person team spanning engineering, design, AI, and delivery |
+| **Staff** | 10 team members across engineering, design, and delivery |
+| **Operating Model** | Founder-led delivery, supported by a 10-person team spanning engineering, design, and delivery |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -59,18 +59,16 @@
 | Mobile App Development | ✅ Active |
 | Web Development | ✅ Active |
 | Game Development | ✅ Active |
-| Enterprise Solutions | ✅ Active |
-| AI Development | ✅ Active — Core Service Line |
+| Enterprise Solutions | 📋 Planned |
+| AI Development | 🚧 Expanding |
 | API Development | ✅ Active |
-| SaaS Development | ✅ Active |
+| SaaS Development | 📋 Roadmap |
 | UI/UX Design | ✅ Active |
 | Database Design | ✅ Active |
 | DevOps & Deployment | ✅ Active |
-| Hosting Services | ✅ Active *(self-managed — web, bot, game, and AI-inference server hosting)* |
+| Hosting Services | ✅ Active *(self-managed — web, bot, and game server hosting)* |
 | Technical Consulting | ✅ Active |
 | Software Maintenance | ✅ Active |
-| AI Agent Engineering | ✅ Active *(new — Phase 3)* |
-| Edge & On-Device AI | 🚧 Expanding |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -82,12 +80,12 @@
 | E-Commerce | ✅ Delivered |
 | Startups | ✅ Delivered |
 | Small & Medium Businesses | ✅ Delivered |
-| Education | ✅ Delivered |
-| Healthcare | ✅ Delivered |
-| Retail | ✅ Delivered |
+| Education | 🎯 Target |
+| Healthcare | 🎯 Target |
+| Retail | 🎯 Target |
 | Logistics | 🎯 Target |
 | Finance | 🎯 Target |
-| Enterprise Organizations | ✅ Delivered |
+| Enterprise Organizations | 🎯 Target |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -100,7 +98,6 @@ Technical Architecture           →  System design built to scale from day one
 MVP Development                  →  Fast, focused builds to validate ideas
 Product Scaling                  →  Architecture that grows with the client
 System Integration                →  Connecting APIs, tools, and platforms
-AI Agent Orchestration           →  Multi-agent pipelines embedded into products
 Performance Optimization         →  Tuned for speed and reliability
 Security Best Practices          →  Applied across every engagement
 Long-Term Support                →  Maintenance and iteration after launch
@@ -115,10 +112,10 @@ Long-Term Support                →  Maintenance and iteration after launch
 | **Vision** | Establish Exurion as a recognized technology brand across games, web, and AI |
 | **Mission** | Deliver end-to-end, founder-led technology products — from strategy to long-term support — without the overhead of a large agency |
 | **Core Values** | Ship with intent · Architect for scale · Lead by building · Move fast, stay sharp |
-| **Market Focus** | Gaming studios, startups, SMBs, and enterprise teams seeking direct, accountable technical partners |
-| **Innovation Strategy** | Rapid iteration on client work paired with internal R&D on original game, AI, and tooling projects |
-| **AI Strategy** | AI is now embedded across every service line — from AI-assisted development to fully AI-native product lines |
-| **Growth Plan** | Phase 1: Founding team delivery ✅ → Phase 2: Team scale ✅ → Phase 3: AI integration ✅ → Phase 4: Scale 🔵 → Phase 5: Market leadership |
+| **Market Focus** | Gaming studios, startups, and SMBs seeking direct, accountable technical partners |
+| **Innovation Strategy** | Rapid iteration on client work paired with internal R&D on original game and tooling projects |
+| **AI Strategy** | Actively expanding into AI — embedding intelligent tooling into existing service lines and building AI-native products |
+| **Growth Plan** | Phase 1: Founding team delivery → Phase 2: Scale the team → Phase 3: AI integration → Phase 4: Scale → Phase 5: Market leadership |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -151,7 +148,6 @@ Every engagement is led directly by the Founder & CEO — from the first convers
 | **Modern Technology Stack** | Current frameworks and tools across game, web, app, and AI development |
 | **Long-Term Technical Support** | Maintenance and iteration included as part of every engagement |
 | **Quality-Focused Engineering** | Security and performance best practices applied by default |
-| **AI-Native by Default** | Every new product ships with AI tooling baked in, not bolted on |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -167,37 +163,31 @@ Every engagement is led directly by the Founder & CEO — from the first convers
 | [**Forest Hunt**](https://github.com/EBINBIJU138/the-forest-hunt) | Unity · C# · AI · NavMesh | Open-world hunting game with AI wildlife and level design |
 | [**Snake & Ladder**](https://github.com/EBINBIJU138/snake-and-ladder) | Unity · C# · UI Toolkit | Digital board game with turn management and dice logic |
 | **Discord Bot — AutoMod** | Node.js · Discord.js · MongoDB · Express | Moderation bot with AI filtering, auto-roles, and slash commands |
-| **Kerala Truck Simulator** | Unreal Engine 5 · C++ · Blueprint · Lumen · Nanite | Open-world driving simulation featuring realistic Kerala highways and dynamic traffic AI |
-| **Kerala IT Simulator** | Unity · C# · React · Node.js | Business simulation of running a Kerala IT startup, with an AI-driven market model |
-| **Media Converter Suite** | Flutter · Electron · React Native · FFmpeg · Node.js | Cross-platform converter supporting 40+ audio/video formats with AI upscaling |
-| **AI Chatbot Integration** | Python · FastAPI · LLM APIs · Vector Search | Context-aware AI chatbot platform embedded into client web applications |
-| **Inventory Manager Tool** | Electron · IndexedDB · Chart.js · Node.js | Desktop stock-tracking tool with predictive reorder alerts and barcode scanning |
-| **Portfolio CMS** | Next.js · Sanity.io · Vercel · Tailwind CSS | Headless CMS-driven portfolio platform with an admin panel and dynamic content |
-| **E-Commerce Website** | Next.js · Shopify · Stripe · Razorpay | Full online storefront with catalog, cart, and secure checkout |
 
 ### 🔵 Active / In Development
 
 | Project | Stack | Highlights | Status |
 |:---|:---|:---|:---:|
-| **Exurion AI Studio** | Python · FastAPI · Multi-Agent Orchestration · Vector DBs | Internal platform for building and deploying custom AI agents for clients | 🔵 In Development |
-| **Kerala IT Simulator 2** | Unity 6 · C# · React · Node.js | Sequel expanding the business-sim into a full economic sandbox | 🔵 In Development |
-| **Exurion Cloud Console** | Next.js · Go · Kubernetes | Self-hosted infrastructure dashboard for managing client deployments | 🔵 In Development |
+| **Kerala Truck Simulator** | Unreal Engine 5 · C++ · Blueprint · Lumen | Open-world driving simulation featuring realistic Kerala highways and traffic | 📋 In Planning |
+| **Kerala IT Simulator** | Unity · C# · React.js · Node.js | Business simulation of running a Kerala IT startup | 📋 In Planning |
+| **Media Converter Suite** | Flutter · Electron · React Native · FFmpeg · Node.js | Cross-platform converter supporting 20+ audio/video formats | 📋 In Planning |
 
 ### 🟡 Internal Products & Roadmap
 
 | Project | Stack | Highlights | Status |
 |:---|:---|:---|:---:|
-| **On-Device AI Toolkit** | Rust · WASM · ONNX Runtime | Lightweight on-device inference SDK for mobile and edge apps | 📋 Roadmap |
-| **SaaS Billing Platform** | Next.js · Stripe · Postgres | White-label billing and subscription layer for Exurion's SaaS clients | 📋 Roadmap |
-| **Enterprise Integration Hub** | Node.js · GraphQL · Kafka | Middleware for connecting enterprise systems and legacy platforms | 📋 Roadmap |
+| **AI Chatbot Integration** | Python · FastAPI · OpenAI · LangChain | Context-aware AI chatbot embedded into web applications | 📋 Roadmap |
+| **Inventory Manager Tool** | Electron · IndexedDB · Chart.js · Node.js | Desktop stock-tracking tool with alerts, reports, and barcode scanning | 📋 Roadmap |
+| **Portfolio CMS** | Next.js · Sanity.io · Vercel · Tailwind CSS | Headless CMS-driven portfolio with an admin panel and dynamic content | 📋 Roadmap |
+| **E-Commerce Website** | Next.js · Shopify · Stripe · Razorpay | Full online storefront with catalog, cart, and secure checkout | 📋 Roadmap |
 
 ### 🔬 Research Projects
 
-Internal R&D has grown into a dedicated function — ongoing exploratory work on multi-agent AI systems, on-device inference, and next-generation multiplayer networking, feeding directly into the product roadmap above.
+Internal R&D is currently informal — exploratory work on AI tooling and game systems that feeds into the roadmap above rather than being tracked as separate, named research initiatives.
 
 ### 🔮 Future Products
 
-Enterprise-tier AI platforms, expanded SaaS offerings, and edge-AI tooling are the current focus of Phase 4 (Scale) — see **Vision & Roadmap** below.
+AI-powered products and tooling, SaaS offerings, and enterprise-tier solutions are planned as part of Phase 3 and beyond of the company roadmap (see **Vision & Roadmap** below).
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -205,13 +195,13 @@ Enterprise-tier AI platforms, expanded SaaS offerings, and edge-AI tooling are t
 
 | Category | Examples |
 |:---|:---|
-| **Mobile Applications** | Media Converter Suite, On-Device AI Toolkit *(roadmap)* |
-| **Web Platforms** | Portfolio CMS, E-Commerce Website, Exurion Cloud Console |
-| **Desktop Software** | Inventory Manager Tool |
-| **Games** | Runner Max, Ghost Fight, Car Multiplayer, Forest Hunt, Snake & Ladder, Kerala Truck Simulator, Kerala IT Simulator, Kerala IT Simulator 2 |
-| **AI Products** | AI Chatbot Integration, Exurion AI Studio |
-| **SaaS Solutions** | SaaS Billing Platform *(roadmap)* |
-| **Enterprise Tools** | Enterprise Integration Hub *(roadmap)*, Exurion Cloud Console |
+| **Mobile Applications** | Planned via Flutter / React Native *(roadmap)* |
+| **Web Platforms** | Portfolio CMS, E-Commerce Website *(roadmap)* |
+| **Desktop Software** | Inventory Manager Tool *(roadmap)* |
+| **Games** | Runner Max, Ghost Fight, Car Multiplayer, Forest Hunt, Snake & Ladder, Kerala Truck Simulator, Kerala IT Simulator |
+| **AI Products** | AI Chatbot Integration *(roadmap)* |
+| **SaaS Solutions** | Planned for Phase 3 (AI Integration) |
+| **Enterprise Tools** | Planned for Phase 4 (Scale) |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -220,9 +210,9 @@ Enterprise-tier AI platforms, expanded SaaS offerings, and edge-AI tooling are t
 | Phase | Timeline | Focus | Key Goals |
 |:---:|:---|:---|:---|
 | **Phase 1** | Complete | 🏗️ Foundation | Founder-led delivery across games, apps, web & e-commerce · Build portfolio & client base |
-| **Phase 2** | Complete | 👥 Team Growth | Grew to a 35-person team across engineering, design & AI research · Formalized internal processes |
-| **Phase 3** | Complete | 🤖 AI Integration | Launched AI-powered products & tooling · Embedded AI into every existing service line |
-| **Phase 4** | Now | 🏢 Scale | Growing into a full-scale multi-disciplinary technology studio · Expanding hosting & infrastructure capacity |
+| **Phase 2** | Now | 👥 Team Growth | Grew to a 10-person team across engineering & design · Formalizing internal processes |
+| **Phase 3** | Mid-Term | 🤖 AI Integration | Launch AI-powered products & tooling · Embed AI into existing service lines |
+| **Phase 4** | Long-Term | 🏢 Scale | Grow into a full-scale multi-disciplinary technology studio · Expand hosting & infrastructure capacity |
 | **Phase 5** | Vision | 🌍 Market Leadership | Establish Exurion as a recognized technology brand across games, web, and AI |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
@@ -230,8 +220,8 @@ Enterprise-tier AI platforms, expanded SaaS offerings, and edge-AI tooling are t
 ## 🌍 Business Goals
 
 ```
-Build innovative software products across games, web, apps, and AI
-Deepen AI-powered solutions across every service line
+Build innovative software products across games, web, and apps
+Expand AI-powered solutions into every service line
 Grow globally from a founder-led studio into a full-scale, multi-service company
 Deliver enterprise-quality software with a lean, accountable team
 Build long-term client partnerships rather than one-off projects
@@ -241,19 +231,18 @@ Build long-term client partnerships rather than one-off projects
 
 ## 👥 Team
 
-Exurion now operates with a 35-person team spanning the functions below, led by the Founder & CEO.
+Exurion now operates with a 10-person team spanning the functions below, led by the Founder & CEO.
 
 | Function | Status |
 |:---|:---:|
 | Engineering | ✅ Active |
 | Game Development | ✅ Active |
-| AI Research & Engineering | ✅ Active |
+| AI Research | ✅ Active |
 | UI/UX Design | ✅ Active |
 | Quality Assurance | ✅ Active |
 | DevOps | ✅ Active |
 | Marketing | ✅ Active |
 | Business Development | ✅ Active |
-| Client Success | ✅ Active *(new)* |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -261,22 +250,22 @@ Exurion now operates with a 35-person team spanning the functions below, led by 
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=unity,unrealengine,cpp,csharp,rust,react,nextjs,nodejs,express,js,html,css,tailwind,flutter,reactnative,python,fastapi,mongodb,mysql,postgres,firebase,blender,figma,electron,git,vercel,netlify,kubernetes,docker,go,graphql)
+![Skills](https://skillicons.dev/icons?i=unity,unrealengine,cpp,csharp,react,nextjs,nodejs,express,js,html,css,tailwind,flutter,reactnative,python,fastapi,mongodb,mysql,firebase,blender,figma,electron,git,vercel,netlify)
 
 </div>
 
 | Category | Technologies |
 |:---|:---|
-| 🎮 **Game Development** | Unity 6 · Unreal Engine 5 (Nanite/Lumen) · C# · C++ · Blueprint · Netcode · Photon · NavMesh · UI Toolkit · Animation Rigging · Advanced Game AI · Android · Windows · Web (WebGL/WebGPU) |
-| 🌐 **Web Development** | React · Next.js · Node.js · Express · Go · GraphQL · HTML5 · CSS3 · JavaScript/TypeScript · Tailwind CSS |
-| 📱 **App Development** | Flutter · React Native · Rust/WASM (on-device) |
-| 🤖 **AI & Automation** | Python · FastAPI · LLM APIs · LangChain · Multi-Agent Orchestration · Vector Databases · ONNX Runtime · Discord.js |
-| 🗄️ **Database & Storage** | MongoDB · MySQL · PostgreSQL · Firebase · IndexedDB · Vector Stores |
+| 🎮 **Game Development** | Unity · Unreal Engine 5 · C# · C++ · Blueprint · Lumen · Netcode · Photon · NavMesh · UI Toolkit · Animation Rigging · Game AI · Android · Windows · Web (WebGL) |
+| 🌐 **Web Development** | React.js · Next.js · Node.js · Express · HTML5 · CSS3 · JavaScript · Tailwind CSS |
+| 📱 **App Development** | Flutter · React Native |
+| 🤖 **AI & Automation** | Python · FastAPI · OpenAI · LangChain · Discord.js |
+| 🗄️ **Database & Storage** | MongoDB · MySQL · Firebase · IndexedDB |
 | 🛒 **E-Commerce & CMS** | Shopify · Stripe · Razorpay · Sanity.io |
 | 🧊 **3D, Design & Tooling** | Blender · Maya · Adobe Photoshop · Figma · Electron · Chart.js · FFmpeg · Vercel |
-| 🖥️ **Hosting & Infrastructure** | Web Hosting · Bot Hosting · Game Server Hosting · AI Inference Hosting · Kubernetes · Docker *(self-managed)* |
+| 🖥️ **Hosting & Infrastructure** | Web Hosting · Bot Hosting · Game Server Hosting *(self-managed)* |
 | 🚫☁️ **Non-Cloud** | Dedicated self-managed servers — no third-party cloud providers |
-| 🔧 **Version Control & Deployment** | Git · Vercel · Netlify · Kubernetes |
+| 🔧 **Version Control & Deployment** | Git · Vercel · Netlify |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -293,16 +282,16 @@ Exurion now operates with a 35-person team spanning the functions below, led by 
 
 </div>
 
-Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-builder — closing the gap between business strategy and hands-on engineering. He built the company from the ground up and now leads a 35-person team, staying directly involved in strategy, architecture, and delivery rather than stepping back into a purely executive role.
+Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-builder — closing the gap between business strategy and hands-on engineering. He built the company from the ground up and now leads a 10-person team, staying directly involved in strategy, architecture, and delivery rather than stepping back into a purely executive role.
 
 **Business Acumen**
-- Founded and self-funded Exurion from the ground up with zero outside investment, growing it into a 35-person team over three years
+- Founded and self-funded Exurion from the ground up with zero outside investment, growing it into a 10-person team
 - Owns overall strategy, pricing, and client relationships, working closely with the team on delivery — the full commercial stack, not just the technical one
 - Operates lean by design: every dollar of overhead is earned before it's spent
 
 **Technical Range**
 - Ships across four disciplines — games, web, apps, and AI — rather than specializing narrowly
-- Comfortable at every layer: from Unreal Engine 5 systems to Next.js storefronts to multi-agent AI pipelines
+- Comfortable at every layer: from Unreal Engine C++ systems to Next.js storefronts to AI chatbot pipelines
 
 **Leadership Philosophy**
 - *Lead by building* — credibility comes from shipped work, not job titles
@@ -317,11 +306,11 @@ Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-build
 
 | Category | Expertise |
 |:---|:---|
-| 🎮 **Game** | Game Development · Game Source Code · Game Mechanics & Level Design · Advanced Game AI · Game Design · Multiplayer Networking |
+| 🎮 **Game** | Game Development · Game Source Code · Game Mechanics & Level Design · Game AI · Game Design · Multiplayer Networking |
 | 🌐 **Web & App** | Web Development · Full-Stack Development · App Development · E-Commerce Development |
 | 🎨 **Design** | UI/UX Design · 3D Modelling · Adobe Photoshop · Motion Graphics |
-| 🤖 **AI & Bots** | AI Agent Engineering · AI Chatbot Development · Discord Bot Development |
-| 🗄️ **Infrastructure** | Database Services · Web Hosting & Server Management · Kubernetes Orchestration |
+| 🤖 **AI & Bots** | AI Chatbot Development · Discord Bot Development |
+| 🗄️ **Infrastructure** | MySQL Database Services · Web Hosting & Server Management |
 | 💼 **Business** | Strategy & Vision · Pricing & Proposals · Client Relationship Management · Growth Planning |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
@@ -331,7 +320,7 @@ Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-build
 | | |
 |:---|:---|
 | **📧 Business Email** | [exuriontechnologies@gmail.com](mailto:exuriontechnologies@gmail.com) |
-| **🌐 Company Website** | *Live* |
+| **🌐 Company Website** | *Coming soon* |
 | **📁 Portfolio** | [GitHub — EBINBIJU138](https://github.com/EBINBIJU138) |
 | **💼 LinkedIn** | *Add your profile link* |
 | **💻 GitHub** | [github.com/EBINBIJU138](https://github.com/EBINBIJU138) |
@@ -344,31 +333,31 @@ Ebin Biju founded Exurion Technologies as a powerful, hands-on businessman-build
 
 | | |
 |:---|:---|
-| **© Copyright** | © 2025–2028 Exurion Technologies. All rights reserved. |
+| **© Copyright** | © 2025–2026 Exurion Technologies. All rights reserved. |
 | **📄 License** | *Not yet published — add a LICENSE file if open-sourcing any code* |
-| **📋 Terms of Service** | *Published — available on request* |
-| **🔒 Privacy Policy** | *Published — available on request* |
-| **🤝 Code of Conduct** | *Published — available on request* |
+| **📋 Terms of Service** | *Not yet published* |
+| **🔒 Privacy Policy** | *Not yet published* |
+| **🤝 Code of Conduct** | *Not yet published* |
 
-> As Exurion has scaled into a 35-person team, formal legal documents (Terms of Service, Privacy Policy, Code of Conduct) have been put in place to support a growing client base.
+> Since Exurion is an early-stage company, formal legal documents (Terms of Service, Privacy Policy, Code of Conduct, licensing) are not yet published. These are recommended next steps as the company takes on more clients.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
 ## ✨ Additional Sections
 
 ### ⭐ Company Achievements
-- Founded Exurion in December 2025 and grew it into a 35-person, multi-discipline studio over three years — self-funded, no outside capital
-- Shipped **13+ completed products** spanning game development, backend tooling, automation, and AI platforms (see Business Portfolio)
-- Built and operates a technology stack spanning 4 disciplines — games, web, apps, and AI — with AI now embedded across every line
-- Runs self-managed hosting infrastructure (web, bot, game, and AI-inference servers) without relying on third-party cloud platforms
+- Founded Exurion and grew it into a working, multi-discipline studio with a 10-person team in under a year — self-funded, no outside capital
+- Shipped **6 completed products** spanning game development, backend tooling, and automation (see Business Portfolio)
+- Built and personally operates a technology stack spanning 4 disciplines — games, web, apps, and AI — rather than a single specialty
+- Stood up self-managed hosting infrastructure (web, bot, and game servers) without relying on third-party cloud platforms
 
 ### 📈 Business Metrics
 | Metric | Value |
 |:---|:---:|
-| Completed products shipped | 13+ |
-| Active service lines | 16 |
-| Core technology domains | 12+ |
-| Team size | 35 |
+| Completed products shipped | 6 |
+| Active service lines | 14 |
+| Core technology domains | 10+ |
+| Team size | 10 |
 | Founded | December 2025 |
 
 *Revenue, client count, and growth-rate metrics are not published publicly at this stage.*
@@ -383,16 +372,16 @@ No formal partnerships yet. Exurion is open to partnering with agencies, publish
 Remote-first and based in Kerala, India, Exurion operates without a physical office and is structured to take on clients in any timezone. All engagement — discovery through delivery — happens remotely by design.
 
 ### 🔬 Research & Development
-R&D is now a dedicated internal function — ongoing work on multi-agent AI systems, on-device inference, and next-generation multiplayer networking, feeding directly into the product roadmap.
+R&D is currently informal rather than a separate funded function — exploratory work on AI tooling (chatbots, LangChain pipelines) and game systems (AI behavior, multiplayer networking) feeds directly into the roadmap rather than being run as standalone research.
 
 ### 🛡️ Security & Privacy
 - Secrets and credentials kept out of source control; environment-based configuration on every project
-- Access control applied to databases, hosting, and AI infrastructure on a per-project basis
-- Security review performed by the Founder & CEO and engineering leads before every deployment
-- Formal, published security policy in place as part of Phase 4 scaling
+- Access control applied to databases and hosting infrastructure on a per-project basis
+- Security review performed personally by the Founder & CEO before deployment
+- No formal, published security policy yet — this is planned alongside Phase 2 hiring
 
 ### ⚖️ Compliance
-No formal certifications (ISO, SOC 2, etc.) are held at this stage — a natural next step as the company continues to scale. General data-handling and security best practices are applied to every engagement by default.
+No formal certifications (ISO, SOC 2, etc.) are held at this stage — a natural next step as the company continues to scale. General data-handling and security best practices are still applied to every engagement by default.
 
 ### 🏅 Awards & Recognition
 None yet. This section will be updated if and when Exurion receives external recognition.
@@ -409,14 +398,14 @@ Exurion does not publish a fixed price list. Every engagement is quoted individu
 - **Time-based**, for ongoing maintenance and long-term support engagements
 
 ### 🗺️ Public Product Roadmap
-See the **Vision & Roadmap** section above for the current 5-phase growth plan (Foundation → Team Growth → AI Integration → Scale → Market Leadership).
+See the **Vision & Roadmap** section above for the current 5-phase growth plan (Foundation → First Hires → AI Integration → Scale → Market Leadership).
 
 ### ❓ Frequently Asked Questions
 **Is Exurion a registered legal entity?**
-Yes — formal legal registration is complete.
+Currently operating as a trade name; formal legal registration is in progress.
 
 **How big is the team?**
-Currently 35 team members, led by the Founder & CEO.
+Currently 10 team members, led by the Founder & CEO.
 
 **Do you take on small projects or only large ones?**
 Both — engagements are scoped individually rather than gated by a minimum size.
@@ -428,13 +417,13 @@ Reach out via the Business Contact section below to begin the Discovery stage.
 Yes — long-term maintenance and support is included as part of the standard Client Engagement process.
 
 ### 🚀 Career Opportunities
-Exurion has grown to a 35-person team across Engineering, Game Development, AI Research & Engineering, UI/UX Design, QA, DevOps, Marketing, Business Development, and Client Success (see **Team** above). Interested candidates are welcome to reach out via the Business Contact section for future openings.
+Exurion has grown to a 10-person team across Engineering, Game Development, AI Research, UI/UX Design, QA, DevOps, Marketing, and Business Development (see **Team** above). Interested candidates are welcome to reach out via the Business Contact section for future openings.
 
 ### ❤️ Sponsor & Support
 See the **Sponsorship** section below to support Exurion's open-source projects and AI product development.
 
 ### 🌱 Sustainability & Social Impact
-No formal sustainability program yet. As a remote-first, self-hosted operation, Exurion runs without a physical office footprint by default — a formal social-impact initiative remains a candidate for a later growth phase.
+No formal sustainability program yet. As a remote-first, self-hosted operation, Exurion runs without a physical office footprint by default — a formal social-impact initiative is a candidate for a later growth phase, not a current program.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -443,11 +432,11 @@ No formal sustainability program yet. As a remote-first, self-hosted operation, 
 | | |
 |:---|:---|
 | **📩 Support Channel** | Company email & Discord server |
-| **🕒 Response Model** | Direct founder & lead-engineer support — no ticketing layers |
+| **🕒 Response Model** | Direct founder support — no ticketing layers |
 | **🔧 Scope** | Bug fixes, hosting issues, feature requests, and general maintenance |
 | **🔁 Post-Launch Coverage** | Included as part of every project engagement |
 
-Support requests are handled personally by the Founder & CEO and engineering leads to ensure fast, accountable responses.
+Support requests are handled personally by the Founder & CEO to ensure fast, accountable responses.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header)
 
@@ -457,7 +446,7 @@ Support requests are handled personally by the Founder & CEO and engineering lea
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Support_Exurion-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/EBINBIJU138)
 
-Support the growth of Exurion Technologies — sponsorships help fund open-source projects, tooling, and continued expansion of AI-powered products.
+Support the growth of Exurion Technologies — sponsorships help fund open-source projects, tooling, and the transition toward AI-powered products.
 
 </div>
 
